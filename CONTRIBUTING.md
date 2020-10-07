@@ -6,14 +6,14 @@ Please note I have a code of conduct to keep everyone safe and happy, so please 
 
 ## Pull Request Process
 
-1. Follow the instructions in the open issue. Any request that attempts to solve mre than what was requested will be rejected (i.e. keep your commits small)
+1. Follow the instructions in the open issue. Any request that attempts to solve more than what was requested will be rejected (i.e. keep your commits small)
 2. Label the pull request properly. 
     * Each request must be tagged based on the type of issue: [NEW], [ENHANCEMENT], [BUGFIX], or [DOCUMENTATION]
-    * Each request should alsi provide a short, yet descriptive summary of the changes you amde
+    * Each request should also provide a short, yet descriptive summary of the changes you made
     * Example: [ENHANCEMENT] Some descriptive message about your change here
 3. Provide the following sections in the comment of the request (as H3 tags using ### in the markdown):
     * Summary - a brief summary of what changed and why
-    * Changes - a lsit of files that changed (ones that you directly modified)
+    * Changes - a list of files that changed (ones that you directly modified)
     * Implementation details - how you implemented the requested changes (i.e. I added a new component called Example inside the Basic module)
     * Other details - link the issue you are attempting to close and provide anything else you wish to change
 4. Add your name and GitHub profile link to the Contributors section of the README (this is optional if you so choose)
