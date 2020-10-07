@@ -13,21 +13,20 @@ export interface ThingsToDo {
     feeDescription: string;
     id: string; 
     age: string
-    //relatedOrganizations TODO: create interface for this;
     arePetsPermittedwithRestrictions: boolean;
     //activities	TODO: create interface for this;
     activityDescription: string;
     locationDescription: string;
     doFeesApply: boolean;    
     longDescription: string;
-    //season	TODO: create interface for this;
+    season: string[];
     //topics	TODO: create interface for this;
     durationDescription: string;
     arePetsPermitted: boolean;
-    //timeOfDay	TODO: create interface for this;
+    timeOfDay: string[];
     title: string;
     latitude: string;
     shortDescription: string;
     duration: string;
-    //tags TODO: create interface for this;
+    tags: string[];
 }
