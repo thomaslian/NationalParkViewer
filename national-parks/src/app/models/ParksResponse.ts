@@ -1,8 +1,8 @@
 import { Park } from './Park';
 
 export interface ParksResponse {
-    total: string;
+    total: number;
     data: Park[];
-    limit: string;
-    start: string;
+    limit: number;
+    start: number;
 }
