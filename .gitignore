@@ -165,3 +165,6 @@ baseline.json
 
 # Ignore .history for the xyz.local-history VSCode extension
 .history
+
+# Keep the secrets safe
+appsettings.json
